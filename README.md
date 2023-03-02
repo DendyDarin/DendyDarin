@@ -6,7 +6,7 @@
 
 
 ## 🚀 About Me
-I'm a Data Analyst Enthusiast
+I'm a Data Science Enthusiast
 
 
 ## 🔗 Links
@@ -18,11 +18,11 @@ I'm a Data Analyst Enthusiast
 ## Summary of My Journey
 👩‍💻 Started as a Highway Engineer.
 
-🧠 I'm currently learning Data Analyst
+🧠 I'm currently learning Data Science
 
-👯‍♀️ I'm looking to collaborate on Data Analyst project
+👯‍♀️ I'm looking to collaborate on Data Science project
 
-🤔 I'm looking for help with other Data Analyst
+🤔 I'm looking for help with other Data Scientist
 
 💬 Ask me about anything!
 
