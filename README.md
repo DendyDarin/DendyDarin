@@ -30,5 +30,8 @@ I'm a Data Science Enthusiast
 
 
 ## 🛠 Skills
-1. Just started.. I will write here when the skill has acquired.
+1. Python - currently learning
+2. R - currently learning
+3. SQL
+4. Tableau - not started yet
 
