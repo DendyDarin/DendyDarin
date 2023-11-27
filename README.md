@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a Data Science Enthusiast
+I'm a Game Development Enthusiast
 
 
 ## 🔗 Links
@@ -14,11 +14,11 @@ I'm a Data Science Enthusiast
 ## Summary of My Journey
 👩‍💻 Started as a Highway Engineer.
 
-🧠 I'm currently learning Data Science
+🧠 I'm currently learning Game Developmet
 
-👯‍♀️ I'm looking to collaborate on Data Science project
+👯‍♀️ I'm looking to collaborate on Game project
 
-🤔 I'm looking for help with other Data Scientist
+🤔 I'm looking for help with other Game Developer
 
 💬 Ask me about anything!
 
@@ -30,8 +30,7 @@ I'm a Data Science Enthusiast
 
 
 ## 🛠 Skills
-1. Python - currently learning
-2. R - currently learning
-3. SQL
-4. Tableau - not started yet
+1. C# - currently learning
+2. Unity - currently learning
+3. Blender - urrently learning
 
