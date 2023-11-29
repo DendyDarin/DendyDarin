@@ -32,5 +32,6 @@ I'm a Game Development Enthusiast
 ## 🛠 Skills
 1. C# - currently learning
 2. Unity - currently learning
-3. Blender - urrently learning
+3. Blender - currently learning
+4. Pixel Art
 
