@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a LLM Engineer Enthusiast
+I'm a C# and Game Developmnet Enthusiast
 
 
 ## 🔗 Links
@@ -14,11 +14,11 @@ I'm a LLM Engineer Enthusiast
 ## Summary of My Journey
 👩‍💻 Started as a Highway Engineer.
 
-🧠 I'm currently learning LLM
+🧠 I'm currently learning C#
 
-👯‍♀️ I'm looking to collaborate on LLM project
+👯‍♀️ I'm looking to collaborate on C# project
 
-🤔 I'm looking for help with other LLM Engineer
+🤔 I'm looking for help with other C# Developer
 
 💬 Ask me about anything!
 
@@ -30,5 +30,5 @@ I'm a LLM Engineer Enthusiast
 
 
 ## 🛠 Skills
-1. LLM - currently learning
+1. C# - currently learning
 
